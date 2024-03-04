@@ -127,3 +127,32 @@
 
 }
 /* End Section Two  */
+
+/* Section Three  */
+.section-three {
+  padding: 100px 0;
+}
+.section-three .container .row {
+  margin-bottom: 80px;
+}
+.section-three .inner-title {
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+.section-three .inner-desc {
+  font-size: 16px;
+  color: var(--color-desc);
+}
+.section-three .inner-image {
+  text-align: center;
+}
+.section-three .inner-image img {
+  width: 55%;
+  height: 55%;
+  object-fit: cover;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* End Section Three  */
+
